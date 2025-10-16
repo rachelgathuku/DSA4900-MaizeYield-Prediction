@@ -1,5 +1,8 @@
 # DSA4900-MaizeYield-Prediction
 Predicting maize yield using satellite and environmental data).
+[![View Notebook](https://img.shields.io/badge/View%20Notebook-blue?style=for-the-badge&logo=jupyter)](https://github.com/rachelgathuku/DSA4900-MaizeYield-Prediction/blob/main/Copy_of_DSA4900.ipynb)
+
+
 # 📈 Model Performance and Visual Insights
 
 The following visualizations summarize the performance and interpretability of the maize yield prediction models.  
